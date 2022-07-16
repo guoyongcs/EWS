@@ -63,6 +63,7 @@ python train_cifar.py --dataset cifar100 --ngpus 2 --augmix --use_checkpoint
 python train_imnet.py --dataset imagenet --model_type resnet --ngpus 8 --data /path/to/imagenet
 ```
 
+You may use --use_checkpoint to save memory.
 
 
 
