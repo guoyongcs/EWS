@@ -18,7 +18,7 @@ Python>=3.7, PyTorch>=1.9.0, torchvision, numpy, pickle
 ## Testing
 
 You can evaluate our models on CIFAR-10(-C), CIFAR-100(-C), and ImageNet(-C/P). <br />
-We release our best [pre-trained models](xxx) for each of the above datasets.
+We release our best [pre-trained models](https://drive.google.com/drive/folders/1wp6dcaAXbVJqx6Ohb3KVulkHS9JOa93m?usp=sharing) for each of the above datasets.
 
 1. Download the original CIFAR-10, CIFAR-100, and [ImageNet](https://github.com/landskape-ai/imagenet) dataset.
 
