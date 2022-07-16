@@ -10,7 +10,7 @@ Pytorch implementation for "Improving Robustness by Enhancing Weak Subnets".
 
 ## Dependencies
 ```
-Python>=3.7, PyTorch>=1.9.0, numpy, pickle, skimage, imageio, tqdm
+Python>=3.7, PyTorch>=1.9.0, torchvision, numpy, pickle
 ```
 
 
