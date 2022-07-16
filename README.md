@@ -17,13 +17,15 @@ Python>=3.7, PyTorch>=1.9.0, torchvision, numpy, pickle
 
 ## Testing
 
-You can evaluate our models on CIFAR-10(-C), CIFAR-100(-C), and ImageNet(-C/P). We release our best [pre-trained models](xxx) for each of the above datasets.
+You can evaluate our models on CIFAR-10(-C), CIFAR-100(-C), and ImageNet(-C/P). 
 
-1. Download the original CIFAR-10, CIFAR-100, and [ImageNet](https://github.com/landskape-ai/imagenet) dataset
+We release our best [pre-trained models](xxx) for each of the above datasets.
 
-2. Download the corrupted test sets, including CIFAR-10-C, CIFAR-100-C, and ImageNet-C dataset. Please refer to the detailed [instructions](https://github.com/hendrycks/robustness)
+1. Download the original CIFAR-10, CIFAR-100, and [ImageNet](https://github.com/landskape-ai/imagenet) dataset.
 
-3. Run the testing script
+2. Download the corrupted test sets, including CIFAR-10-C, CIFAR-100-C, and ImageNet-C dataset. Please refer to the detailed [instructions](https://github.com/hendrycks/robustness) to download them.
+
+3. Run the testing script.
 
 - CIFAR-10 & CIFAR-10-C
 
