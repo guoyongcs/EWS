@@ -1,4 +1,4 @@
-# Improving Robustness by Enhancing Weak Subnets [[Paper]](https://arxiv.org/pdf/2003.07018.pdf)
+# [ECCV 2020] Improving Robustness by Enhancing Weak Subnets [[Paper]](https://arxiv.org/pdf/2003.07018.pdf)
 
 
 Pytorch implementation for "Improving Robustness by Enhancing Weak Subnets".
